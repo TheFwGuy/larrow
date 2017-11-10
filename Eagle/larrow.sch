@@ -3793,6 +3793,7 @@ SMT- SWCH-08247</description>
 <sheets>
 <sheet>
 <plain>
+<text x="172.72" y="73.66" size="1.778" layer="91">Launchpad powered via USB</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="185.42" y="38.1"/>
